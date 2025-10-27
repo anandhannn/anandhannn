@@ -19,7 +19,7 @@ I believe in *learning, experimenting, breaking, and securing*.
 ### 📬 Connect With Me
 <p align="left">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="https://www.linkedin.com/in/anandha-krishnan-c-751195318/">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/anandha-krishnan-c-751195318/" target="">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
