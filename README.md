@@ -5,7 +5,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 I'm a **Cyber Security Researcher** passionate about:
 - Blue Team & SOC Operations 🛡️
 - Digital Forensics & Incident Response (DFIR) 🕵️‍♂️
