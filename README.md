@@ -1,13 +1,12 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Hello+There!+👋+I'm+Anandhan;Cyber+Security+Researcher;Python+%7C+Bash+%7C+SOC+Analyst+Learner;Welcome+to+my+GitHub+Profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Hello+There!++I'm+Anandha Krishnan;Cyber+Security+Researcher;Python+%7C+Bash+%7C+SOC+Analyst+Learner;Welcome+to+my+GitHub+Profile!">
 </p>
 
 ---
 
 ### 🚀 About Me
 I'm a **Cyber Security Researcher** who loves exploring:
-- Digital Forensics 🕵️‍♂️
 - SOC and Blue Team tools 🛡️
 - Ethical Hacking & Vulnerability Analysis 🔍
 - System & Network Security 🌐
