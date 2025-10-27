@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Hello+There!+I'm+Anandha+Krishnan;Cyber+Security+Researcher;Python+%7C+Bash+%7C+JavaScript+%7C+GoLang;SOC+%7C+Networking+%7C+Blue+Team;Welcome+to+my+GitHub+Profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Hello+There!+👋+I'm+Anandha+Krishnan;Cyber+Security+Researcher;Python+%7C+Bash+%7C+JavaScript+%7C+GoLang;SOC+%7C+Networking+%7C+Blue+Team;Welcome+to+my+GitHub+Profile!">
 </p>
 
 ---
@@ -19,7 +19,7 @@ I believe in *learning, experimenting, breaking, and securing*.
 ### 📬 Connect With Me
 <p align="left">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/anandha-krishnan-c-751195318/" target="">
+<a href="https://www.linkedin.com/in/anandha-krishnan-c-751195318/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -42,7 +42,7 @@ I believe in *learning, experimenting, breaking, and securing*.
 | **Programming** | ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998) ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) |
 | **Cyber Security** | SOC Monitoring, SIEM, Log Analysis, Threat Hunting, DFIR |
 | **Networking** | TCP/IP, OSI Model, DNS, DHCP, Packet Analysis, Wireshark |
-| **Tools** | ![Kali Linux](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-02569B?style=for-the-badge&logo=wazuh&logoColor=white) ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white) |
+| **Tools** | ![Kali Linux](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-02569B?style=for-the-badge&logo=wazuh&logoColor=white) ![Splunk](https://img.shields.io-badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white) |
 | **OS** | Linux (Debian/Ubuntu/Kali), Windows |
 
 ---
